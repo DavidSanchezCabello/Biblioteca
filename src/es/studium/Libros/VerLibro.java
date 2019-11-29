@@ -8,7 +8,6 @@ public class VerLibro {
 		Libro l2=new Libro("El Hobbit","J.R.R.Tolkien",305);		
 		
 		System.out.println(l1.getAutor()+l1.getLibro()+l1.getPaginas());
-		System.out.println(l2.getAutor()+l2.getLibro()+l2.getPaginas());
 		System.out.println(l1.getAutor()+l1.getLibro()+l1.getPaginas());
 	}
 
